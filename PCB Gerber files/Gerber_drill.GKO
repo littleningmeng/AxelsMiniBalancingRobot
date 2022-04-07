@@ -1,0 +1,22 @@
+G04 ---------------------------- Layer name :KeepOutLayer *
+G04 easyEDA 0.1*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in inches *
+G04 leading zeros omitted , absolute positions ,2 integer and 4 * 
+%FSLAX24Y24*%
+%MOIN*%
+G90*
+G70D02*
+
+%ADD10C,0.010000*%
+G54D10*
+G01X0Y39200D02*
+G01X29527Y39200D01*
+G01X29527Y19515D01*
+G01X0Y19515D01*
+G01X0Y39200D01*
+
+%LPD*%
+
+M00*
+M02*
